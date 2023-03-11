@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://beartisan.net/">
-    <img src="https://custom-icon-badges.demolab.com/badge/beartisan-blue.svg?logo=beartisan" alt="Website Badge"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/beartisan-LaunchSite-blue.svg?logo=beartisan" alt="Website Badge"/>
   </a>
 
 </div>
