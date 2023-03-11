@@ -20,7 +20,7 @@
 <div class="container">
   - 💻 I am a full-stack web developer
   <br />
-  - 🔭 I’m currently working on projects with languages
+  - 🔭 I’m currently working on projects 
   
 <!-- ### Front-End
   
