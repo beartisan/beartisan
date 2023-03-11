@@ -21,12 +21,12 @@
   - 💻 I am a full-stack web developer. 
   - 🔭 I’m currently working on projects with languages
   
-### Front-End
+<!-- ### Front-End
   
   <i class="devicon-nodejs-plain"> </i>
   <i class="devicon-mongodb-plain"> </i>
 
-</div>
+</div> -->
 
 
 
