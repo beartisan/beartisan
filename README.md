@@ -20,7 +20,7 @@
 <div class="container">
   - 💻 I am a full-stack web developer
   <br />
-  - 🔭 I’m currently working on projects 
+  - 🔭 I know HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
   
 <!-- ### Front-End
   
