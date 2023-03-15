@@ -15,10 +15,6 @@
     </a>
   </div>
   
-  <div>
-  ![beartisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beartisan&show_icons=true&theme=transparent)
-</div> 
-  
 </div>
 
 <div class="container">
@@ -26,15 +22,17 @@
   <br />
   - 🔭 I know HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
   
+  <div>
+    ![beartisan's GitHub stats](https://github-readme-stats.vercel.app/apiusername=beartisan&show_icons=true&theme=transparent)
+   </div> 
+</div>
+  
 <!-- ### Front-End
   
   <i class="devicon-nodejs-plain"> </i>
   <i class="devicon-mongodb-plain"> </i>
 
 </div> -->
-
-
-
 <!--
 **beartisan/beartisan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
