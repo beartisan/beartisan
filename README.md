@@ -21,9 +21,7 @@
   - 💻 I am a full-stack web developer
   <br />
   - 🔭 I know HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
-  
-  
-    ![beartisan's GitHub stats](https://github-readme-stats.vercel.app/apiusername=beartisan&show_icons=true&theme=transparent)
+ 
    
 </div>
   
