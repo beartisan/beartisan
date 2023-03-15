@@ -22,9 +22,9 @@
   <br />
   - 🔭 I know HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
   
-  <div>
+  
     ![beartisan's GitHub stats](https://github-readme-stats.vercel.app/apiusername=beartisan&show_icons=true&theme=transparent)
-   </div> 
+   
 </div>
   
 <!-- ### Front-End
