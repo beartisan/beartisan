@@ -24,12 +24,12 @@
   - 🔭 I know HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
   </div>
   
-  <div class="stats">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+</div>
+ 
+  ![beartisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beartisan&show_icons=true&theme=transparent)
   </div>
    
-</div>
-  
 <!-- ### Front-End
   
   <i class="devicon-nodejs-plain"> </i>
