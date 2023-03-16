@@ -30,8 +30,8 @@
    
 <!-- ### Front-End
   
-  <i class="devicon-nodejs-plain"> </i>
-  <i class="devicon-mongodb-plain"> </i>
+  <i class="devicon-nodejs-plain" aria-label="node"> </i>
+  <i class="devicon-mongodb-plain" aria-label="mongodb"> </i>
 
 </div> -->
 <!--
