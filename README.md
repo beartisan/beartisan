@@ -5,8 +5,6 @@
   
   ### I am beartisan
   <div id="badges">
-    Learn more about my projects and skills
-    <br />
     <a href="https://beartisan.net/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/beartisan-LaunchSite-blue.svg?logo=beartisan" alt="Website Badge"/></a>
     <a href="https://www.linkedin.com/in/jbeatricetan" target="_blank">
