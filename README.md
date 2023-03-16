@@ -5,13 +5,17 @@
   
   ### I am beartisan
   <div id="badges">
-    <a href="https://www.linkedin.com/in/jbeatricetan" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    Learn more about my projects and skills
+    
     <a href="https://beartisan.net/" target="_blank">
       <img src="https://custom-icon-badges.demolab.com/badge/beartisan-LaunchSite-blue.svg?logo=beartisan" alt="Website Badge"/>
     </a>
+    <a href="https://www.linkedin.com/in/jbeatricetan" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
   </div>
+  
+  [![Instagram Badge](https://img.shields.io/badge/INSTAGRAM-2C689E?style=flat-square&labelColor=2C689E&logo=instagram&logoColor=white&link=https://www.instagram.com/beartisan/)](https://www.instagram.com/beartisan/)  
   
 </div>
 
