@@ -22,7 +22,8 @@
   - 🔭 I know HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
  </div>
 </div>
- 
+
+<div>
   ![beartisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beartisan&show_icons=true&theme=transparent)
   
  </div>
