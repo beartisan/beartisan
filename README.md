@@ -19,7 +19,7 @@
   <div class="about">
   - 💻 I am a full-stack web developer
   <br />
-  - 🔭 I know HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
+  - 🌱 I’m currently learning HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
  </div>
 </div>
 
@@ -28,6 +28,15 @@
 <div>
   
   ![beartisan's GitHub stats](https://github-readme-stats.vercel.app/api?username=beartisan&show_icons=true&theme=transparent)
+  
+
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beartisan&show_icons=true&layout=compact&theme=vue&langs_count=15)](https://github.com/beartisan) -->
+
+<!---
+beartisan/beartisan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
   
  </div>
    
