@@ -19,7 +19,7 @@
   <div class="about">
   - 💻 I am a full-stack web developer
   <br />
-  - 🌱 I’m currently learning HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb.
+  - 🌱 I’m currently learning HTML5, CSS ,JavaScript, C#, MySQL, PHP, NodeJs, MongoDb, etc.
  </div>
 </div>
 
