@@ -27,8 +27,6 @@
 
 <div>
   
-  [![beartisan’s github stats](https://github-readme-stats.vercel.app/api?username=beartisan&show_icons=true&line_height=21&show_icons=true&theme=vue&count_private=true)](https://github.com/beartisan)
-  
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beartisan&" alt="beartisan" />
 
