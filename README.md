@@ -11,8 +11,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
- 
-  
+
 </div>
 
 <div class="container">
@@ -24,14 +23,6 @@
 </div>
 
 <br />
-
-<div>
-  
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=beartisan&" alt="beartisan" />
-
-  
- </div>
    
 <!-- ### Front-End
   
