@@ -18,7 +18,7 @@
   <div class="about">
   - 💻 I am a full-stack web developer
   <br />
-  - 🌱 Languages: HTML5, CSS, JavaScript, jQuery, C#, MySQL, PHP, Laravel, Node.Js, Express.Js, MongoDb, React.Js, Next.Js etc.
+  - 🌱 Languages: HTML5, CSS, JavaScript, jQuery, C#, MySQL, PHP, Laravel, Node.Js, Express.Js, MongoDb, React.Js, Next.Js, and etc.
  </div>
 </div>
 
